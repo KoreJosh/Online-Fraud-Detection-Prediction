@@ -1,7 +1,6 @@
 # Online-Fraud-Detection-Prediction
 
-![](https://github.com/KoreJosh/Online-Fraud-Detection-Prediction/assets/97749198/1c1f284d-e152-44a0-87e3-75cd4d0301b1)
-
+![](https://github.com/KoreJosh/Online-Fraud-Detection-Prediction/assets/97749198/ee41ef93-eb0a-4eb5-b7b0-1e535094aeb9)
 
 ## Problem Statement
 **Problem Statement: Online Fraud Prediction**
@@ -27,11 +26,15 @@ The dataset contains 6362620 rows( each rows represent a patient), and 11 column
     
 ## Exploratory Data Analysis
 Exploring the transaction type , the following amount of transaction were made based on each form of transaction:
-CASH_OUT    2237500
-PAYMENT     2151495
-CASH_IN     1399284
-TRANSFER     532909
-DEBIT         41432:
+|Transaction Type|Amount in Numbers|
+|-----------|-----------|
+|CASH_OUT |2237500|
+|PAYMENT|2151495|
+|CASH_IN|1399284|
+|TRANSFER|532909|
+|DEBIT|41432|
+
+
 ![distribution transaction type](https://github.com/KoreJosh/Online-Fraud-Detection-Prediction/assets/97749198/f934f950-8aa1-4e3e-af85-6696b9e72f8e)
 
 
