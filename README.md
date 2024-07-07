@@ -51,7 +51,7 @@ df["isFraud"] = df["isFraud"].map({0: "No Fraud", 1: "Fraud"})
 
 ### Online Payments Fraud Detection Model
 
-# Splitting the dataset to dependent and independe nt variable.
+# Splitting the dataset to dependent and independent variable.
 
 ```
 x = np.array(df[["type", "amount", "oldbalanceOrg", "newbalanceOrig"]])
